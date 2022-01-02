@@ -34,6 +34,6 @@ HTTPClient <br />
 
 # Autores :pencil:
 
-* [GitHub Pages](https://github.com/MariaBlancoGonzalez/)
-* [GitHub Pages](https://github.com/JoseAlbertoSeco/)
-* [GitHub Pages](https://github.com/PabloVelascoCrespo/)
+* [María Blanco Gónzalez-Mohíno](https://github.com/MariaBlancoGonzalez/)
+* [José Alberto Seco Sánchez-Camacho](https://github.com/JoseAlbertoSeco/)
+* [Pablo Velasco Crespo](https://github.com/PabloVelascoCrespo/)
