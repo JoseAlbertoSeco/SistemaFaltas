@@ -21,6 +21,11 @@ HTTPClient <br />
 
 # Análisis de archivos
 
+* Arduino: configuración de la ESP32 y AS608 para autenticar y registrar huellas
+* Controlador: crea los archivos con las huellas en el servidor web
+* DB: configuración para crear un database en MySQL
+* Pagina Web: condiguración del sistema web
+
   
 # Construido con :keyboard:
 
