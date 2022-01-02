@@ -55,3 +55,6 @@ HTTPClient <br />
 * [María Blanco Gónzalez-Mohíno](https://github.com/MariaBlancoGonzalez/)
 * [José Alberto Seco Sánchez-Camacho](https://github.com/JoseAlbertoSeco/)
 * [Pablo Velasco Crespo](https://github.com/PabloVelascoCrespo/)
+
+# License
+Licensed under the term of Apache License 2.0. See file [LICENSE](LICENSE).
