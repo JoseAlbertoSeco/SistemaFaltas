@@ -32,11 +32,11 @@ HTTPClient <br />
 * DB: configuración para crear un database en MySQL: SistemaFaltas_emptyDB.sql.
 
 * Pagina Web: condiguración del sistema web. En esta carpeta nos encontramos diferentes archivos: <br />
-			-index.php: "main" del servidor en su conjunto. <br />
-			-config.php: credenciales para la conexión con la base de datos. <br />
-			-Carpeta addIndex: control_data.php, control_huella.php, control_setup.php, controladores de registro. <br />
-			-Carpeta css: style.css, archivo para modificar esteticamente la página web. <br />
-			-Carpeta scripts: insetarAlumno.php, updateFalta.php y script.js para interaccionar con la base de datos.
+			- index.php: "main" del servidor en su conjunto. <br />
+			- config.php: credenciales para la conexión con la base de datos. <br />
+			- Carpeta addIndex: control_data.php, control_huella.php, control_setup.php, controladores de registro. <br />
+			- Carpeta css: style.css, archivo para modificar esteticamente la página web. <br />
+			- Carpeta scripts: insetarAlumno.php, updateFalta.php y script.js para interaccionar con la base de datos.
 
 
   
